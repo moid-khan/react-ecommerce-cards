@@ -1,0 +1,16 @@
+body{
+  background-color: #282c34;
+}
+
+.card-title{
+  font-size: 2em!important;
+  color: black!important;
+}
+
+.btn-large{
+  margin-bottom: 10px;
+}
+
+.card-content p{
+  color: #4f5052;
+}
